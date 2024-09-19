@@ -21,4 +21,5 @@
 
 
 
+![создать контент](https://github.com/user-attachments/assets/32de0c84-daa2-40e6-916c-4594d4178776)
 
