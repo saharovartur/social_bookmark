@@ -29,6 +29,10 @@
 ![image](https://github.com/user-attachments/assets/ddddf888-2578-483a-938b-6886fbf16230)
 ![image](https://github.com/user-attachments/assets/8c2facc2-b6c3-4c10-8be1-45c9dea32659)
 
+4.1 Бесконечная прокрутка изображений. 
+![image](https://github.com/user-attachments/assets/8fa8eb4c-9786-4550-a2a3-e6c648a20666)
+
+
 
 Дополнительная функциональность проекта. 
 1.  Система обращения в поддержку сайта через форму на сайте с сохранением данных об обращении в БД путем отправки сообщения пользователя на почту администратору сайта. Использовал здесь Celery и Redis. 
