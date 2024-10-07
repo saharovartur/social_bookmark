@@ -29,10 +29,17 @@
 ![image](https://github.com/user-attachments/assets/ddddf888-2578-483a-938b-6886fbf16230)
 ![image](https://github.com/user-attachments/assets/8c2facc2-b6c3-4c10-8be1-45c9dea32659)
 
+
 4.1 Бесконечная прокрутка изображений. 
 ![image](https://github.com/user-attachments/assets/8fa8eb4c-9786-4550-a2a3-e6c648a20666)
 
-5.1 Система подписок на пользователя. 
+
+5.1 Отдельный список пользователей (List+Detail) 
+![image](https://github.com/user-attachments/assets/eb072f52-db61-4701-b996-dd3c16155ee0) 
+![image](https://github.com/user-attachments/assets/147b9e51-a460-4760-b4c7-570f1373798e)
+
+
+6.1 Система подписок на пользователя. 
 ![image](https://github.com/user-attachments/assets/285f6063-a7a9-4d2e-bf9b-3c770a2ad55e)
 
 
