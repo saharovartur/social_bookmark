@@ -32,6 +32,10 @@
 4.1 Бесконечная прокрутка изображений. 
 ![image](https://github.com/user-attachments/assets/8fa8eb4c-9786-4550-a2a3-e6c648a20666)
 
+5.1 Система подписок на пользователя. 
+![image](https://github.com/user-attachments/assets/285f6063-a7a9-4d2e-bf9b-3c770a2ad55e)
+
+
 
 
 Дополнительная функциональность проекта. 
